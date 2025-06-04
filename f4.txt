@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is in remote repository
+=======
+this is in feature branch
+>>>>>>> 8b2681b (f4 committed)
